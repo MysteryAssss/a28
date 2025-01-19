@@ -1,10 +1,10 @@
 # Copyright (c) 2024 Mysteryassss
 # SPDX-License-Identifier: MIT
 
-if BOARD_MS60
+if BOARD_A28
 
 config ZMK_KEYBOARD_NAME
-    default "Mystery_60v5_BLE"
+    default "A28_BLE"
 
 if USB_DEVICE_STACK
 
