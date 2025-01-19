@@ -25,7 +25,7 @@
         zmk,physical-layout = &a28_all;
     };
 
-    layout_0: Layout 0 {
+    a28_all_transform: a28_all_transform {
 		compatible = "zmk,matrix-transform";
 		columns = <10>;
 		rows = <3>;
