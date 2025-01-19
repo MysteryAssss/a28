@@ -41,7 +41,7 @@
         compatible = "zmk,physical-layout-position-map";
 
         layout_0 {
-            physical-layout = <&layout_0>;
+            physical-layout = <&a28_0>;
             positions = <>;
         };
     };
