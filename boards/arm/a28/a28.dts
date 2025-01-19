@@ -13,7 +13,7 @@
 #include "a28-layouts.dtsi"
 
 / {
-    model = "ms60";
+    model = " a28";
     compatible = "Mystery,a28";
 
     chosen {
