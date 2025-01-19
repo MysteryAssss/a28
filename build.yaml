@@ -19,7 +19,7 @@
 ---
 
 include:
-  - board: a28_ZMK
+  - board: a28
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: mystery_a28_studio
