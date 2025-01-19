@@ -2,6 +2,7 @@
 / {
     layout_0: layout_0 {
         compatible = "zmk,physical-layout";
+	transform = <&layout_0>;
         display-name = "Layout 0";
 
         keys  //                     w   h    x    y     rot    rx    ry
