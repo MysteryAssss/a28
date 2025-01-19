@@ -1,8 +1,8 @@
 #include <physical_layouts.dtsi>
 / {
-    layout_0: layout_0 {
+    a28_0: a28_0 {
         compatible = "zmk,physical-layout";
-	transform = <&layout_0>;
+	transform = <&a28_all_transform>;
         display-name = "Layout 0";
 
         keys  //                     w   h    x    y     rot    rx    ry
